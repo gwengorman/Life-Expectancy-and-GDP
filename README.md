@@ -1,2 +1,2 @@
 # Life-Expectancy-and-GDP
-##The python project analysis the trend of Life Expectancy and GDP for 6 different countries between 2000-2015.
+This Python project analyzes the trends in Life Expectancy and GDP for six countries (Zimbabwe, Chile, Mexico, Germany, China, and the USA) from 2000 to 2015. It finds that, generally, GDP growth correlates with rising Life Expectancy, with China and the USA showing significant growth in both. However, Zimbabwe is an exception, where Life Expectancy increased significantly without a corresponding rise in GDP. The project uses visualizations to highlight these patterns.
